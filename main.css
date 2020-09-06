@@ -1,5 +1,6 @@
 *{
   font-family: 'Open Sans', sans-serif;
+
 }
 #main_content{
   padding-left: 20%;
@@ -51,7 +52,7 @@
 }
 .column{
   width:100%;
-  background-color:red;
+
 }
 @media (min-width:800px) {
 
@@ -60,7 +61,7 @@
   }
   .column{
     width:50%;
-    background-color:blue;
+
   }
 
 
